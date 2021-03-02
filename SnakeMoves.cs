@@ -14,7 +14,6 @@ namespace SnakeMoves
 
             for (int i = 0, ch = 0; i < rows; i++)
             {
-                
                 if (i % 2 == 0)
                 {
                     for (int j = 0; j < cols; j++)
